@@ -1,7 +1,12 @@
-- Hi, I’m Aaron Brunt. I am currently based in Western Australia. 
-- I’m interested in GIS and Python. I have a Graduate Diploma in GIS and a BEng. 
+- Aaron Brunt
+- Currently based in Western Australia
+- BEng GradDip (GIS) and GradCert (Data Science)
+- Soon commencing a Master's in Data Analytics
 - I’m currently learning QGIS, PyQGIS, Python, Python Kivy and R programming. 
-- This is my current GIS portfolio. I am looking for work in the GIS realm. 
+- Geography and data nerd.
+- Enjoys Python programming.
+- In a process of rebuilding a career after hitting a brick wall.
+
 - My email is Azzland@outlook.com. 
 
 <!---
