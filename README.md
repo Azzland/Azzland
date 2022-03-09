@@ -1,7 +1,6 @@
 - Aaron Brunt
 - Currently based in Western Australia
-- BEng GradDip (GIS) and GradCert (Data Science)
-- Soon commencing a Master's in Data Analytics
+- BEng(Environmental), GradDip (GIS) and GradCert (Data Science)
 - I’m currently learning QGIS, PyQGIS, Python, Python Kivy and R programming. 
 - Geography and data nerd.
 - Enjoys Python programming.
